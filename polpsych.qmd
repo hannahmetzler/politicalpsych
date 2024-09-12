@@ -1,0 +1,398 @@
+---
+format: 
+  revealjs:
+    footer: https://hannahmetzler.eu/politicalpsych
+    seal: false
+    transition: 'slide'
+    ## Defines the theme of the presentation, both version and style
+    theme: [default, custom.scss]
+    # incremental slides point by point
+    #incremental: true
+    aspect-ratio: 16:9
+    slide-number: true
+title-slide-attributes:
+    data-background-color: "#1f5c99"
+#     data-background-size: cover
+#     data-background-opacity: "0.5"
+
+#editor
+editor: source
+---
+
+## Polarization and misinformation:   {.center}
+
+### Social drivers and algorithmic mechanisms on digital media
+
+<br>
+
+**Hannah Metzler** <br> 
+*Complexity Science Hub & Medical University of Vienna* <br>
+
+German Political Psychology Conference <br>
+September 19, 2024 <br>
+
+:::: columns
+::: {.column width="25%"}
+![](logos/Complexity-Science-Hub-logo.png)
+:::
+::: {.column width="32%"}
+![](logos/Meduni-wien.svg)
+:::
+
+::: {.column width="40%"}
+![](logos/wwtf.svg)
+:::
+::::
+
+::: notes
+
+:::
+
+
+
+
+
+
+## Worries
+
+## It's social media's fault! ???
+
+:::: columns
+::: {.column width="60%"}
+- Algorithms radicalize people
+- Echo chambers cause polarization
+
+### Solutions?
+:::
+::: {.column width="40%"}
+![](https://cdn.pixabay.com/photo/2014/04/03/10/53/spiral-311612_1280.png){width="150"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1920px-YouTube_Logo_2017.svg.png){width="200"}
+<!-- ![](images/Guess2023_algorithm_effects.svg) -->
+:::
+::::
+
+- [Dissolve](https://www.pnas.org/content/115/37/9216) echo chambers & [turn off](https://www.science.org/doi/full/10.1126/science.abp9364) algorithms
+
+::: fragment
+
+### The Science:
+
+![](images/google_election_fraud.png){.absolute bottom=230 right=0 width="750"}
+
+- People [look for](https://www.nature.com/articles/s41586-023-06078-5) radical [content](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118).
+- No algorithm effects on opinions & emotions (studies [1](https://www.nature.com/articles/s41586-023-06297-w), [2](https://www.science.org/doi/full/10.1126/science.abp9364), [3](https://www.science.org/doi/10.1126/science.add8424))
+- Echo chambers are [larger offline](https://doi.org/10.1093/qje/qjr044), reducing them [backfires](https://www.pnas.org/content/115/37/9216).
+:::
+
+::: footer
+Robertson et al., [2023](https://www.nature.com/articles/s41586-023-06078-5); Hosseinmardi et al., [2024](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121); 
+Munger & Philipps, [2022](https://doi.org/10.1177/1940161220964767); <br>
+Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w); 
+Guess et al., [2023](https://www.science.org/doi/full/10.1126/science.abp9364);
+Guess et al., [2023](https://www.science.org/doi/10.1126/science.add8424);
+Bail et al. [2018](https://www.pnas.org/content/115/37/9216);
+Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044)
+:::
+
+::: notes
+- I know this sounds like I don't think there's any problem, which is not true either. 
+- I just want to make the point that misinformation (manipulation) is overestimated, it's never a good idea to assume people are stupid, and that not everything is social media's fault. 
+- I'll leave you hanging in suspense about what I think the actual role of social media is, you'll have to check out our website, a podcast I did recently, or watch Doc dok 1 on ORF next Friday. 
+:::
+
+Here is the translation of the German parts while keeping the format as requested:
+
+---
+
+## Digital Echo Chambers & Filter Bubbles
+
+::: columns
+::: {.column width="30%"}
+![](https://cdn.pixabay.com/photo/2017/01/13/19/40/family-1978106_1280.png)
+:::
+
+::: {.column width="70%"}
+-   Echo chambers: offline [stronger](https://doi.org/10.1093/qje/qjr044) than online
+-   [Magnitude](https://www.nature.com/articles/s41586-023-06297-w) varies greatly
+    -   **20.6%** of Facebook users: **75%** of posts from like-minded sources
+    -   **23.1%**: less than **25%** of posts
+-   Algorithms: smaller (6%) & much less [influence](https://www.science.org/doi/full/10.1126/science.aaa1160) than the social network
+-   [Groups & Pages](https://www.science.org/doi/10.1126/science.ade7138): highly segregated
+:::
+:::
+
+::: footer
+Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044); Bakshy et al. [2015](https://www.science.org/doi/full/10.1126/science.aaa1160); Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w); Gonzalez-Bailon et al., [2023](https://www.science.org/doi/10.1126/science.ade7138)
+:::
+
+::: notes
+-   Exposure to different perspectives online echo chamber, gap between Conservative/Liberal in visiting conservative sites: (7.5%, Gentzkow Shapiro 2011), Gonzalez Bailon: 35%
+-   Difference between Rep./Dem. for Rep. content (USA): [7.5%](https://doi.org/10.1093/qje/qjr044)-[35%](https://www.science.org/doi/10.1126/science.ade7138)
+:::
+
+## Influence of Algorithms
+
+Facebook [study](https://www.nature.com/articles/s41586-023-06297-w): Down-ranking of like-minded posts
+
+![](images/Nyhan_2023.svg)
+
+::: footer
+Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
+:::
+
+## Algorithm: Down-Ranking Like-Minded Sources
+
+![](images/Nyhan_2023_results_Fig3_a_d.svg){.r-stretch}
+
+-   Similar findings in 2 more studies: <br> [No Algorithm](https://www.science.org/doi/full/10.1126/science.abp9364) or [No Re-Shares](https://www.science.org/doi/10.1126/science.add8424)
+
+::: footer
+Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w); Guess et al., [2023](https://www.science.org/doi/full/10.1126/science.abp9364); Guess et al., [2023](https://www.science.org/doi/10.1126/science.add8424)
+:::
+
+::: notes
+Profanity etc. Reduction: from 0.034% to 0.030% for content with slur words, from 3.15% to 2.81% for uncivil content, from 0.76% to 0.55% for content from misinformation repeat offenders
+:::
+
+## Algorithms & Radicalization Spirals?
+
+-   Influence of [Google's Algorithm](https://www.nature.com/articles/s41586-023-06078-5) on results: search terms have a much stronger effect
+
+![](images/google.png)
+
+-   YouTube: Algorithm leads to [less radical consumption](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121)
+-   Clicks for radical videos: from [outside the platform](https://doi.org/10.1177/1940161220964767)
+-   [User preferences](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118) determine views of radical videos
+
+$\rightarrow$ Users actively seek like-minded content
+
+::: footer
+Robertson et al., [2023](https://www.nature.com/articles/s41586-023-06078-5); Hosseinmardi et al., [2024](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121); Hosseinmardi et al., [2021](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118); Munger & Philipps, [2022](https://doi.org/10.1177/1940161220964767)
+:::
+
+## Reducing Echo Chambers? Not a Good Idea.
+
+-   Political polarization in the USA ([Study 2017](https://www.pnas.org/content/115/37/9216))
+
+::: columns
+::: {.column width="50%"}
+![](images/bail_design.svg)
+:::
+
+::: {.column width="50%"}
+-   Posts from opinion leaders of the other party
+-   Attitudes became more extreme, especially among Republicans
+-   Extreme voices amplify polarization
+:::
+:::
+
+::: footer
+Bail et al. [2018](https://www.pnas.org/content/115/37/9216)
+:::
+
+## So what?
+
+- Reducing misinformation will not solve the real problems 
+- [Alarmist narrative](https://doi.org/10.1007/s11109-024-09911-3) reduces trust in reliable news
+- Misinformation & social media companies are scapegoats to avoid doing **the hard work**
+
+:::: columns
+::: {.column width="22%"}
+![](https://cdn.pixabay.com/photo/2022/07/25/16/42/mask-7344171_1280.png)
+:::
+::: {.column width="25%"}
+![](https://cdn.pixabay.com/photo/2020/06/06/18/16/stop-5267682_960_720.png)
+:::
+::: {.column width="18%"}
+![](images/yin-yang-2024615.svg)
+:::
+::: {.column width="15%"}
+![](https://cdn.pixabay.com/photo/2016/03/31/18/14/female-1294230_1280.png)
+:::
+
+::: {.column width="18%"}
+![](https://cdn.pixabay.com/photo/2024/02/10/11/57/world-8564647_1280.png)
+:::
+::::
+
+::: footer
+Metzler & Garcia [2023](https://doi.org/10.1177/17456916231185057); Altay [2024](https://www.dw.com/en/disinformation-people-arent-as-gullible-as-we-think/a-67774216); Coppock et al. [2020](https://doi.org/10.1007/s11109-024-09911-3)
+:::
+
+::: notes
+images: vaccine hesitancy, ethnic tensions, sexism, racism, polarization
+:::
+
+## Doing the hard work
+
+- Improve democratic, medical & scientific institutions
+- Trustworthy & transparent politics & media
+- Address societal inequalities and conflicts 
+   - Climate change, poverty, sexism, education, globalization, racism...
+
+
+
+:::: columns
+::: {.column width="18%"}
+![](https://cdn.pixabay.com/photo/2014/03/24/13/40/courthouse-293963_1280.png)
+:::
+::: {.column width="18%"}
+![](https://cdn.pixabay.com/photo/2013/07/13/09/36/megaphone-155780_1280.png)
+:::
+::: {.column width="25%"}
+![](https://cdn.pixabay.com/photo/2021/05/15/13/20/hunger-6255733_1280.png)
+:::
+::: {.column width="12%"}
+![](https://cdn.pixabay.com/photo/2017/01/31/00/03/currency-2022440_1280.png)
+:::
+::: {.column width="23%"}
+![](https://cdn.pixabay.com/photo/2016/10/08/04/25/laptop-1723059_1280.png)
+:::
+::::
+
+
+
+
+## Thank you! Questions? {.smaller}
+
+Metzler, H., & Garcia, D. (2024). Social Drivers and Algorithmic Mechanisms on Digital Media. _Perspectives on Psychological Science, 19_(5), 735-748. <https://doi.org/10.1177/17456916231185057>
+
+<br>
+
+### For more:
+
+Emotions & Misinformation project: <https://hannahmetzler.eu/emomis>
+
+:::: columns
+
+::: {.column width="40%"}
+[Spektrum article](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951)
+```{r, out.width=350}
+knitr::include_graphics("images/spektrum.png")
+```
+:::
+
+::: {.column width="33%"}
+[DerStandard Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
+
+```{r, out.width=350}
+knitr::include_graphics("images/derstandard_podcast.png")
+```
+:::
+::: {.column width="25%"}
+[ORF Documentary Dok 1](https://tv.orf.at/dok-1/dok424.html)
+
+```{r, out.width=220}
+knitr::include_graphics("images/dok1_orf.png")
+```
+:::
+
+::::
+
+
+
+
+::: notes
+
+## Prevalence of misinformation
+
+:::: columns
+::: {.column width="60%"}
+### Solutions?
+
+- Reduce it & warn people
+
+::: {.fragment fragment-index=1}
+### The Science:
+
+- Only 1-6% of all news.
+- Most people don't read the news.
+:::
+
+::: {.fragment fragment-index=2}
+- Motivated minority shares majority of misinfo: [1%](https://www.doi.org/10.1017/S0003055421000290), [5%](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706), [2%](https://doi.org/10.1080/10584609.2024.2325426)
+- Misinformation from the [top](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)!
+:::
+:::
+
+::: {.column width="40%"}
+::: {.fragment fragment-index=1}
+![](images/altay_2022_prevalence.svg)
+:::
+
+::: {.fragment fragment-index=2}
+![](https://peoplesdispatch.org/wp-content/uploads/2021/01/trump-capitol-2.jpg){width="300"}
+:::
+:::
+::::
+
+::: footer
+Altay et al. [2022](https://journalqd.org/article/view/3617); 
+Grinberg et  al., [2019](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706); 
+Osmundsen et al., [2021](https://www.doi.org/10.1017/S0003055421000290);
+de Leon et al., [2024](https://doi.org/10.1080/10584609.2024.2325426)
+:::
+
+## Myth 4: Misinformation drives behavior
+
+:::: columns
+::: {.column width="81%"}
+- Strong effects on opinions and behavior.
+
+### Solutions?
+
+- Reduce it, facts, warning, inoculations etc.
+
+::: {.fragment fragment-index=1}
+### The Science:
+
+- Russian disinformation attacks during 2016 Trump election: no effects on attitudes, polarization & voting (study [1](https://www.nature.com/articles/s41467-022-35576-9), [2](https://www.pnas.org/doi/full/10.1073/pnas.1906420116))
+- Even mass media have [small effects at best](https://www.science.org/doi/10.1126/sciadv.abc4046)
+
+:::
+:::
+::: {.column width="19%"}
+![](https://cdn.pixabay.com/photo/2021/11/13/18/24/vaccination-6792039_1280.png){width="150"}
+![](https://cdn.pixabay.com/photo/2018/02/01/18/39/trump-3123765_1280.png){width="130"}
+
+::: {.fragment fragment-index=1}
+![](https://cdn.pixabay.com/photo/2013/07/13/09/36/megaphone-155780_1280.png){width="140"}
+
+:::
+:::
+::::
+
+::: footer
+Eady et al. [2023](https://www.nature.com/articles/s41467-022-35576-9);
+Bail et al. [2020](https://www.pnas.org/doi/full/10.1073/pnas.1906420116);
+Coppock et al. [2020](https://www.science.org/doi/10.1126/sciadv.abc4046);
+Spenkuch & Toniatti [2018](https://doi.org/10.1093/qje/qjy010);
+Altay et al. [2023](https://journals.sagepub.com/doi/full/10.1177/20563051221150412)
+:::
+
+
+### Misinformation myths
+
+-   People are gullible
+-   Emotions make people irrational
+-   People are exposed to a lot of misinformation
+-   Misinformation has strong effects on behavior
+-   Algorithms radicalize people
+-   Echo chambers cause the problem
+
+### Truth
+
+- It's hard to change people's minds
+- Emotions are functional
+- Misinformation (and news) exposure are low
+- Persuasion has very small effects
+- Algorithms are not an all round solution
+- Dissolving echo chambers causes polarization
+
+### Wrong solutions
+
+- reduce misinformation 
+- reduce emotions
+- make people more skeptical
+- reduce echo chambers
+:::
